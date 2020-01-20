@@ -3,6 +3,5 @@ function addingEventListener() {
   input.addEventListener("click",function(){
     alert("I clicked the input");
   });
-  
-}
 
+}
